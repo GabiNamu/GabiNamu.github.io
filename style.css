@@ -1,0 +1,94 @@
+h1 {
+    color: #8093F1;
+    background-color: #FDC5F5;
+    text-align: center;
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+    background-color:beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #8093F1;
+    background-color: #FDC5F5;
+    text-align: center;
+    font-size: 50px;
+    
+    
+
+}
+
+.habilidades {
+    background-color: #FDC5F5;
+    color: #8093F1;
+    width: 164px;
+    margin-left: 10px;
+    border-radius: 0.25cm;
+    padding: 5px;
+
+}
+
+img {
+    border-radius: 20%;
+    background-color: #FDC5F5;
+    padding: 00.5cm;
+}
+
+
+
+a {
+    background-color: #72DDF7;
+    line-height: 30px;
+    color:gray;
+    padding: 15px 30px;
+    text-decoration: none;
+    display: block;
+    width: 150px;
+    text-align: center;
+    border-radius: 0.5cm;
+    margin: auto;
+    
+    
+}
+
+a:hover{
+    color:#FDC5F5;
+}
+
+p {
+    color: gray;
+    background-color: #72DDF7;
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 0.5cm;
+    
+}
+
+.lista{
+    background-color:#72DDF7;
+    width: 200px;
+     margin-left: 20px ;
+     border-radius: 0.5cm;
+   color: gray;  
+   padding: 5px;
+}
+
+.lista2{
+    background-color:#72DDF7; 
+    width: 400px ;
+    margin-left: 20px;
+    border-radius: 0.5cm;
+    color: gray;
+    padding: 5px;
+}
+
+h3{
+    font-size: 18px;
+}
