@@ -4,7 +4,6 @@ h1 {
     text-align: center;
     font-size: 150px;
     font-family: Arial, Helvetica, sans-serif;
-    
 }
 
 body {
@@ -17,9 +16,6 @@ h2 {
     background-color: #FDC5F5;
     text-align: center;
     font-size: 50px;
-    
-    
-
 }
 
 .habilidades {
@@ -29,7 +25,6 @@ h2 {
     margin-left: 10px;
     border-radius: 0.25cm;
     padding: 5px;
-
 }
 
 img {
@@ -43,7 +38,7 @@ img {
 a {
     background-color: #72DDF7;
     line-height: 30px;
-    color:gray;
+    color: gray;
     padding: 15px 30px;
     text-decoration: none;
     display: block;
@@ -51,12 +46,10 @@ a {
     text-align: center;
     border-radius: 0.5cm;
     margin: auto;
-    
-    
 }
 
-a:hover{
-    color:#FDC5F5;
+a:hover {
+    color: #FDC5F5;
 }
 
 p {
@@ -68,27 +61,26 @@ p {
     margin-right: auto;
     text-align: center;
     border-radius: 0.5cm;
-    
 }
 
-.lista{
-    background-color:#72DDF7;
+.lista {
+    background-color: #72DDF7;
     width: 200px;
-     margin-left: 20px ;
-     border-radius: 0.5cm;
-   color: gray;  
-   padding: 5px;
-}
-
-.lista2{
-    background-color:#72DDF7; 
-    width: 400px ;
     margin-left: 20px;
     border-radius: 0.5cm;
     color: gray;
     padding: 5px;
 }
 
-h3{
+.lista2 {
+    background-color: #72DDF7;
+    width: 400px;
+    margin-left: 20px;
+    border-radius: 0.5cm;
+    color: gray;
+    padding: 5px;
+}
+
+h3 {
     font-size: 18px;
 }
