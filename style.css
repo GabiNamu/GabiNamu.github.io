@@ -1,3 +1,8 @@
+*{
+    margin: 0cm;
+    padding: 0cm;
+}
+
 h1 {
     color: #8093F1;
     background-color: #FDC5F5;
@@ -25,12 +30,18 @@ h2 {
     margin-left: 10px;
     border-radius: 0.25cm;
     padding: 5px;
+
 }
 
 img {
     border-radius: 20%;
     background-color: #FDC5F5;
     padding: 00.5cm;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+    
+    
 }
 
 
@@ -41,26 +52,34 @@ a {
     color: gray;
     padding: 15px 30px;
     text-decoration: none;
-    display: block;
-    width: 150px;
+    width: 25%;
     text-align: center;
     border-radius: 0.5cm;
-    margin: auto;
+    margin: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    transition: all;
+    display: flex;
+   
+
 }
 
 a:hover {
     color: #FDC5F5;
+    background-color: #8093F1;
 }
 
 p {
     color: gray;
     background-color: #72DDF7;
-    display: block;
     width: 400px;
-    margin-left: auto;
-    margin-right: auto;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
     text-align: center;
     border-radius: 0.5cm;
+    padding: 2px;
+    
 }
 
 .lista {
@@ -70,6 +89,7 @@ p {
     border-radius: 0.5cm;
     color: gray;
     padding: 5px;
+    
 }
 
 .lista2 {
@@ -83,4 +103,21 @@ p {
 
 h3 {
     font-size: 18px;
+}
+
+.sobre_mim{
+    background-color:#8093F1;
+    padding: 25px; 
+    
+}
+
+.container{
+    display: flex;
+}
+
+.lista-geral{
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    
 }
