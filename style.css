@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0cm;
     padding: 0cm;
 }
@@ -12,7 +12,7 @@ h1 {
 }
 
 body {
-    background-color:beige;
+    background-color: beige;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -39,9 +39,6 @@ img {
     padding: 00.5cm;
     margin-left: 200px;
     margin-top: 50px;
-    
-    
-    
 }
 
 
@@ -60,7 +57,7 @@ a {
     margin-bottom: 30px;
     transition: all;
     display: flex;
-   
+
 
 }
 
@@ -79,7 +76,7 @@ p {
     text-align: center;
     border-radius: 0.5cm;
     padding: 2px;
-    
+
 }
 
 .lista {
@@ -89,7 +86,7 @@ p {
     border-radius: 0.5cm;
     color: gray;
     padding: 5px;
-    
+
 }
 
 .lista2 {
@@ -105,19 +102,19 @@ h3 {
     font-size: 18px;
 }
 
-.sobre_mim{
-    background-color:#8093F1;
-    padding: 25px; 
-    
+.sobre_mim {
+    background-color: #8093F1;
+    padding: 25px;
+
 }
 
-.container{
+.container {
     display: flex;
 }
 
-.lista-geral{
+.lista-geral {
     margin-top: 0px;
     margin-left: 100px;
     margin-bottom: 50px;
-    
+
 }
