@@ -8,7 +8,7 @@ h1 {
     background-color: #FDC5F5;
     text-align: center;
     font-size: 150px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;   
 }
 
 body {
@@ -30,7 +30,8 @@ h2 {
     margin-left: 10px;
     border-radius: 0.25cm;
     padding: 5px;
-
+    margin-top: 40px;
+    font-size: 25px;
 }
 
 img {
@@ -57,8 +58,6 @@ a {
     margin-bottom: 30px;
     transition: all;
     display: flex;
-
-
 }
 
 a:hover {
@@ -75,8 +74,8 @@ p {
     margin-top: 100px;
     text-align: center;
     border-radius: 0.5cm;
-    padding: 2px;
-
+    padding: 8px;
+    font-size: 18px;
 }
 
 .lista {
@@ -84,9 +83,10 @@ p {
     width: 200px;
     margin-left: 20px;
     border-radius: 0.5cm;
-    color: gray;
+    color: black;
     padding: 5px;
-
+    margin-top: 10px;
+    font-size: 18px;
 }
 
 .lista2 {
@@ -94,8 +94,10 @@ p {
     width: 400px;
     margin-left: 20px;
     border-radius: 0.5cm;
-    color: gray;
+    color: black;
     padding: 5px;
+    margin-top: 10px;
+    font-size: 18px;    
 }
 
 h3 {
@@ -104,8 +106,7 @@ h3 {
 
 .sobre_mim {
     background-color: #8093F1;
-    padding: 25px;
-
+    padding: 45px;
 }
 
 .container {
@@ -114,7 +115,35 @@ h3 {
 
 .lista-geral {
     margin-top: 0px;
-    margin-left: 100px;
+    margin-left: 30px;
     margin-bottom: 50px;
-
 }
+
+ul li:nth-child(odd){
+    background-color: #8093F1;
+}
+
+#habilidades_comp {
+   padding-right: 65px;   
+}
+
+ .bloco-h1{
+  padding: 30px;
+ }
+
+ .bloco-h {
+   padding: 30px;
+   margin-left: 100px;
+} 
+
+.container-habilidades{
+    display: flex;
+}
+
+footer{
+    background-color: #FDC5F5;
+    padding: 50px;
+    color: gray;
+    text-align: end;
+}
+
